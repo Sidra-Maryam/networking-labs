@@ -6,7 +6,7 @@ These architectural visuals visually map how the guest VMs (Kali Linux and Metas
 
 
 
-## 🎛️ Mapping Summary
+## Mapping Summary
 
 | Diagram File | Subnet Scope | External Internet Path | Host Visibility | IP Management Type |
 | :--- | :--- | :--- | :--- | :--- |
