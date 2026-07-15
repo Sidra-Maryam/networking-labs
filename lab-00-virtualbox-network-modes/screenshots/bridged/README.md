@@ -1,4 +1,4 @@
-# Evidence: Mode 3 — Bridged Adapter
+# Evidence: Mode 3 - Bridged Adapter
 
 This folder contains verification screenshots validating the Bridged Adapter mode behavior.
 
