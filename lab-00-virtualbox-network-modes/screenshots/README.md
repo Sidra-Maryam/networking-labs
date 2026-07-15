@@ -4,7 +4,7 @@
 
 ## 📁 Directory Structure
 
-[cite_start]The screenshots are organized systematically by the specific networking mode under evaluation[cite: 82]:
+The screenshots are organized systematically by the specific networking mode under evaluation:
 
 ```text
 screenshots/
