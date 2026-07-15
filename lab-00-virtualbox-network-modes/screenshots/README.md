@@ -1,6 +1,6 @@
 ## Screenshots & Evidence
 
-[cite_start]This directory contains the complete compilation of raw terminal and GUI screenshots captured during the empirical testing phase of this lab[cite: 21, 89, 90]. [cite_start]These images serve as verified verification of network configurations, routing tables, and interface states[cite: 21, 46, 89].
+This directory contains the complete compilation of raw terminal and GUI screenshots captured during the empirical testing phase of this lab.These images serve as verified verification of network configurations, routing tables, and interface states.
 
 ## 📁 Directory Structure
 
