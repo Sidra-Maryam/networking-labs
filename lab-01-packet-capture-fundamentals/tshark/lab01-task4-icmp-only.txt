@@ -1,0 +1,8 @@
+    5 0.019712508    10.0.2.15 → 142.250.201.110 ICMP 98 Echo (ping) request  id=0x2065, seq=1/256, ttl=64
+    6 0.066340086 142.250.201.110 → 10.0.2.15    ICMP 98 Echo (ping) reply    id=0x2065, seq=1/256, ttl=64 (request in 5)
+    9 1.019962405    10.0.2.15 → 142.250.201.110 ICMP 98 Echo (ping) request  id=0x2065, seq=2/512, ttl=64
+   10 1.067240192 142.250.201.110 → 10.0.2.15    ICMP 98 Echo (ping) reply    id=0x2065, seq=2/512, ttl=64 (request in 9)
+   11 2.021572747    10.0.2.15 → 142.250.201.110 ICMP 98 Echo (ping) request  id=0x2065, seq=3/768, ttl=64
+   12 2.069333981 142.250.201.110 → 10.0.2.15    ICMP 98 Echo (ping) reply    id=0x2065, seq=3/768, ttl=64 (request in 11)
+   13 3.024285380    10.0.2.15 → 142.250.201.110 ICMP 98 Echo (ping) request  id=0x2065, seq=4/1024, ttl=64
+   14 3.071917660 142.250.201.110 → 10.0.2.15    ICMP 98 Echo (ping) reply    id=0x2065, seq=4/1024, ttl=64 (request in 13)

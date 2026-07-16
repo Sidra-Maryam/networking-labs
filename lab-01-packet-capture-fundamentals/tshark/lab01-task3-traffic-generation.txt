@@ -1,0 +1,16 @@
+    1 0.000000000    10.0.2.15 → 192.168.100.1 DNS 70 Standard query 0x6066 A google.com
+    2 0.000520358    10.0.2.15 → 192.168.100.1 DNS 70 Standard query 0x5c62 AAAA google.com
+    3 0.012976582 192.168.100.1 → 10.0.2.15    DNS 86 Standard query response 0x6066 A google.com A 142.250.201.110
+    4 0.018699726 192.168.100.1 → 10.0.2.15    DNS 98 Standard query response 0x5c62 AAAA google.com AAAA 2a00:1450:4019:80f::200e
+    5 0.019712508    10.0.2.15 → 142.250.201.110 ICMP 98 Echo (ping) request  id=0x2065, seq=1/256, ttl=64
+    6 0.066340086 142.250.201.110 → 10.0.2.15    ICMP 98 Echo (ping) reply    id=0x2065, seq=1/256, ttl=64 (request in 5)
+    7 0.066640228    10.0.2.15 → 192.168.100.1 DNS 88 Standard query 0xf84e PTR 110.201.250.142.in-addr.arpa
+    8 0.071384726 192.168.100.1 → 10.0.2.15    DNS 128 Standard query response 0xf84e PTR 110.201.250.142.in-addr.arpa PTR pnfjra-ai-in-f14.1e100.net
+    9 1.019962405    10.0.2.15 → 142.250.201.110 ICMP 98 Echo (ping) request  id=0x2065, seq=2/512, ttl=64
+   10 1.067240192 142.250.201.110 → 10.0.2.15    ICMP 98 Echo (ping) reply    id=0x2065, seq=2/512, ttl=64 (request in 9)
+   11 2.021572747    10.0.2.15 → 142.250.201.110 ICMP 98 Echo (ping) request  id=0x2065, seq=3/768, ttl=64
+   12 2.069333981 142.250.201.110 → 10.0.2.15    ICMP 98 Echo (ping) reply    id=0x2065, seq=3/768, ttl=64 (request in 11)
+   13 3.024285380    10.0.2.15 → 142.250.201.110 ICMP 98 Echo (ping) request  id=0x2065, seq=4/1024, ttl=64
+   14 3.071917660 142.250.201.110 → 10.0.2.15    ICMP 98 Echo (ping) reply    id=0x2065, seq=4/1024, ttl=64 (request in 13)
+   15 5.037308982 PCSSystemtec_5a:87:bc → 52:54:00:12:35:00 ARP 42 Who has 10.0.2.1? Tell 10.0.2.15
+   16 5.038417662 52:54:00:12:35:00 → PCSSystemtec_5a:87:bc ARP 64 10.0.2.1 is at 52:54:00:12:35:00

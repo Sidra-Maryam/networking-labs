@@ -1,0 +1,4 @@
+    1 0.000000000    10.0.2.15 → 192.168.100.1 DNS 93 Standard query 0xa557 A google.com OPT
+    2 0.014454476 192.168.100.1 → 10.0.2.15    DNS 97 Standard query response 0xa557 A google.com A 142.250.200.174 OPT
+    3 5.157099104 PCSSystemtec_5a:87:bc → 52:54:00:12:35:00 ARP 42 Who has 10.0.2.1? Tell 10.0.2.15
+    4 5.158361149 52:54:00:12:35:00 → PCSSystemtec_5a:87:bc ARP 64 10.0.2.1 is at 52:54:00:12:35:00
